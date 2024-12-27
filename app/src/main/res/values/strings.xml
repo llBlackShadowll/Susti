@@ -1,0 +1,7 @@
+<resources>
+    <!-- Otras cadenas de texto -->
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+    <string name="app_name">AppVelitJose</string>
+
+</resources>
